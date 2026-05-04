@@ -12,5 +12,4 @@ The workflow includes:
 2) Selection the four target features
 3) Training KNN classifiers using odd values of K from 1 to 20
 4) Evaluating the effect of feature normalization on model performance
-5) Comparing accuracy befor and after normalization
-    It demonstrate how scalling impacts KNN behavior,
+5) Comparing accuracy befor and after normalization (It demonstrate how scalling impacts KNN behavior)
